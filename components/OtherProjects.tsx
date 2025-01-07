@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 
 import { techStacks, testimonials } from "@/data";
