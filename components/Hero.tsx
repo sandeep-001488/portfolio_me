@@ -1,3 +1,5 @@
+"use client";
+
 import { TbHandClick } from "react-icons/tb";
 
 import MagicButton from "./MagicButton";
