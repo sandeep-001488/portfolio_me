@@ -77,7 +77,7 @@ export const projects = [
     des: "Lets you get digitalised in real-time, no matter the distance.Meeting friends,professionals",
     img: "/panopto-zoom-integration.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://vidsync-where-faces-meet.netlify.app/",
   },
   {
     id: 2,
